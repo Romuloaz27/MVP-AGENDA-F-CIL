@@ -6,7 +6,7 @@ João VitorQueiroz, Flavio pinheiro Martins.
 <ins>Problema escolhido</ins>:
 o problema selecionado foi a agenda Fácil Naf.
 
-<ins>Tecnologias utilizadas</ins>: As tecnologias utilizadas para a solução do nosso projeto são as linguagens de marcação HTML e CSS.
+<ins>Tecnologias utilizadas</ins>: As tecnologias utilizadas para a solução do nosso projeto são as linguagens de marcação HTML,CSS e JavaScript.
 
 <ins>Público Avo</ins>: População Local: São os cidadãos da região que necessitam de assistência em questões fiscais e contábeis, especialmente durante períodos como a temporada de declaração do Imposto de Renda. Eles são os principais usuários finais da plataforma, que precisam agendar atendimentos de forma eficiente e conveniente.
 Estudantes e Professores do Unifeso: São os responsáveis por conduzir os atendimentos no NAF. Os estudantes, supervisionados por professores, desempenham um papel crucial na prestação de serviços contábeis e fiscais. 
@@ -21,7 +21,7 @@ Portanto, as dores principais incluem dificuldades no agendamento eficiente, lim
 <ins>Definição do MVP</ins>: Um sistema web que permite à população local agendar atendimentos no Núcleo de Apoio Contábil e Fiscal (NAF) de forma eficiente. O MVP deve incluir funcionalidades básicas como visualização de horários disponíveis, agendamento de atendimentos, perfis para estudantes e professores do Unifeso, notificações por e-mail, gestão de disponibilidade e uma interface intuitiva, garantindo segurança de dados e desempenho rápido.
 Este MVP é projetado para facilitar o acesso aos serviços contábeis e fiscais oferecidos pelo NAF, atendendo às necessidades iniciais de agendamento da população local e simplificando a gestão interna para os estudantes e professores envolvidos.
 
-
+<ins>Forma de acesso</ins>: Disponibilizamos nesse repositório uma pasta para ser realizado o download, e nessa pasta tem um arquivo Html que poderá acessar o site da Agenda fácil NAF.
 
 
 
