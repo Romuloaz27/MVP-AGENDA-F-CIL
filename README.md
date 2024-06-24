@@ -21,7 +21,7 @@ Portanto, as dores principais incluem dificuldades no agendamento eficiente, lim
 <ins>Definição do MVP</ins>: Um sistema web que permite à população local agendar atendimentos no Núcleo de Apoio Contábil e Fiscal (NAF) de forma eficiente. O MVP deve incluir funcionalidades básicas como visualização de horários disponíveis, agendamento de atendimentos, perfis para estudantes e professores do Unifeso, notificações por e-mail, gestão de disponibilidade e uma interface intuitiva, garantindo segurança de dados e desempenho rápido.
 Este MVP é projetado para facilitar o acesso aos serviços contábeis e fiscais oferecidos pelo NAF, atendendo às necessidades iniciais de agendamento da população local e simplificando a gestão interna para os estudantes e professores envolvidos.
 
-<ins>Forma de acesso</ins>: Disponibilizamos nesse repositório uma pasta para ser realizado o download, e nessa pasta tem um arquivo Html que poderá acessar o site da Agenda fácil NAF, como Inde.html, por exemplo. Para isso utilizar o VSCode para abrir o código-fonte e executá-lo para vizualizar no navegador Chrome.
+<ins>Forma de acesso</ins>: Disponibilizamos nesse repositório uma pasta para ser realizado o download, e nessa pasta tem um arquivo Html que poderá acessar o site da Agenda fácil NAF, como Index.html, por exemplo. Para isso utilizar o VSCode para abrir o código-fonte e executá-lo para vizualizar no navegador Chrome.
 
 
 
